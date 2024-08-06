@@ -4,4 +4,10 @@ body {
 
 p main{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+
+}
+
+h1 header {
+    border: 2px red;
 }
