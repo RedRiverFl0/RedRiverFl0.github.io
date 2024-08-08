@@ -52,5 +52,6 @@ h1 header {
   .skills {
     display: flex;
     list-style-type: square;
-    
+    margin-right: 10px;
+
   }
