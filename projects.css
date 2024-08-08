@@ -1,10 +1,10 @@
 body {
-    background-color: lightcoral;
+    background-color: lightgray;
 }
 
 p main{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: large;
+    font-size: medium;
 
 }
 
@@ -36,11 +36,15 @@ h1 header {
   
   /* Add an active class to highlight the current page */
   .topnav a.active {
-    background-color: #04AA6D;
+    background-color: darkred;
     color: white;
   }
   
   /* Hide the link that should open and close the topnav on small screens */
   .topnav .icon {
     display: none;
+  }
+
+  .project {
+    border: 2px red;
   }
