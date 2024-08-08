@@ -48,3 +48,9 @@ h1 header {
   .project {
     border: 2px red;
   }
+
+  .skills {
+    display: flex;
+    list-style-type: square;
+    
+  }
